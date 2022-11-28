@@ -523,8 +523,6 @@
         {"tweet_id": "1593393195106402304", "label_name": "arvan_cloud"},
         {"tweet_id": "1595363916808441857", "label_name": "accusation"},
         {"tweet_id": "1595498945458933776", "label_name": "promote_rape"},
-],
-     "tweets": [
         {"tweet_id": "1596801808906604546", "label_name": "hossein_ronaghi"},
         {"tweet_id": "1596595968916463619", "label_name": "hossein_ronaghi"},
         {"tweet_id": "1596797363477094400", "label_name": "hossein_ronaghi"},
@@ -534,6 +532,8 @@
         {"tweet_id": "1596547485383954437", "label_name": "hamed_esmaeliun"},
         {"tweet_id": "1596203726481784832", "label_name": "support_mullah_team"},
         {"tweet_id": "1345609508161257473", "label_name": "ghasem"},
+],
+     "tweets": [
         {"tweet_id": "1215731241745514501", "label_name": "ghasem"},
      ]  
 }
